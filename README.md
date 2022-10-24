@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordiparadelo
 - 👀 I’m interested in Web development, interactions and animation
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next
 - 💞️ I’m looking to collaborate on any project to enhance my skills
 - 📫 How to reach me im.jordiparadelo@gmail.com
 
